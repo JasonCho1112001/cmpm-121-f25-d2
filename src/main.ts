@@ -14,3 +14,5 @@ canvas.className = "app-canvas";
 canvas.width = 256;
 canvas.height = 256;
 document.body.appendChild(canvas);
+
+//Test
